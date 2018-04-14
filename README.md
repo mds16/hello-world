@@ -1,2 +1,4 @@
 # hello-world
-test githup
+test github
+
+figure out how to program again...
